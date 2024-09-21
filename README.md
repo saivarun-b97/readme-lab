@@ -25,7 +25,6 @@
 ## Experiments
 
 - Shields/Badges: <br/> ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-- GIFs: <br/> ![Demo](https://media.giphy.com/media/dTJd5ygpxkzWo/giphy.gif)
 - Code Snippets with Syntax Highlighting: <br/>
   ```js
   console.log('Hello, World!');
