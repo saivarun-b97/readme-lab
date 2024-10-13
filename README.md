@@ -19,6 +19,7 @@
 - [GitHub Pages](https://pages.github.com/)
 - [W3Schools](https://www.w3schools.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [CLI Commands](docs/cli.md)
 
 ## Experiments
 - Shields/Badges: <br/> ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
